@@ -1,7 +1,6 @@
-## Oi! Eu sou Igor Rodrigo Costa! 🤠👍
-### Hi! I´m Igor Rodrigo Costa!
+## Oi! Eu sou Igor Rodrigo Costa! 🤠👍 / Hi! I´m Igor Rodrigo Costa! 👍
 
-Saiba mais sobre mim / Know more about me!
+**Saiba mais sobre mim / Know more about me!**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rodrigo-costa-611496338/)
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/IgorRodrigoCosta)
@@ -10,15 +9,14 @@ Saiba mais sobre mim / Know more about me!
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igrcosta&show_icons=true&theme=dark)
 
-## Tecnologias que uso atualmente
+## Tecnologias que uso atualmente / what im using at the moment
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 
-## Mais sobre mim
-### More about me
+## Mais sobre mim / More about me
 
 **Portuguese**
 De forma resumida, estou cursando Engenharia de Software, sou um cara muito criativo e que sonha em se tornar game dev um dia. Fugindo da curva do que as pessoas pensam de um programador comum, eu costumo ser alguém mais criativo, não sou aquele tipo de pessoa que segue uma fórmula matemática e está satisfeito, na verdade, eu crio um guia passo-a-passo para poder ensinar à mim mesmo :D Além disso, sou editor de vídeo Freelancer, e ainda sei design gráfico!
