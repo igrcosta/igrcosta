@@ -7,7 +7,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorcosta250705@gmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Oigorzx/)
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igrcosta&show_icons=true&theme=dark)
+![igrcosta's Stats](https://github-readme-stats.vercel.app/api?username=igrcosta&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![igrcosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igrcosta&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## Tecnologias que uso atualmente / what im using at the moment
 
